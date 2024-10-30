@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "player_name": "Dasun Shanaka",
+    "player_img": "https://i.ibb.co.com/R04zvXz/p1-Copy.jpg",
+    "country": "Sri Lanka",
+    "player_type": "All-rounder",
+    "player_features": ["Right-hand bat", "Right-arm medium"],
+    "price": "$700000",
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "player_name": "Joe Root",
+    "player_img": "https://i.ibb.co.com/1JV7nbf/p2.jpg",
+    "country": "England",
+    "player_type": "Batsman",
+    "player_features": ["Right-hand bat"],
+    "price": "$880000",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "player_name": "Ben Stokes",
+    "player_img": "https://i.ibb.co.com/YR7nWCY/p3.jpg",
+    "country": "England",
+    "player_type": "All-rounder",
+    "player_features": ["Left-hand bat", "Right-arm fast-medium"],
+    "price": "$970000",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "player_name": "Kagiso Rabada",
+    "player_img": "https://i.ibb.co.com/qByVbNH/p4.jpg",
+    "country": "South Africa",
+    "player_type": "Bowler",
+    "player_features": ["Right-arm fast"],
+    "price": "$880000",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "player_name": "Quinton de Kock",
+    "player_img": "https://i.ibb.co.com/Y0gQzPX/p5.jpg",
+    "country": "South Africa",
+    "player_type": "Wicketkeeper-batsman",
+    "player_features": ["Left-hand bat"],
+    "price": "$810000",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "player_name": "Pat Cummins",
+    "player_img": "https://i.ibb.co.com/KFmvNTH/p6.webp",
+    "country": "Australia",
+    "player_type": "Bowler",
+    "player_features": ["Right-arm fast"],
+    "price": "$920000",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "player_name": "David Warner",
+    "player_img": "https://i.ibb.co.com/Zg0wDKn/p7.jpg",
+    "country": "Australia",
+    "player_type": "Batsman",
+    "player_features": ["Left-hand bat"],
+    "price": "$930000",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "player_name": "Jasprit Bumrah",
+    "player_img": "https://i.ibb.co.com/5MF38mk/p8.jpg",
+    "country": "India",
+    "player_type": "Bowler",
+    "player_features": ["Right-arm fast"],
+    "price": "$950000",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "player_name": "Virat Kohli",
+    "player_img": "https://i.ibb.co.com/89gdMWN/p9.webp",
+    "country": "India",
+    "player_type": "Batsman",
+    "player_features": ["Right-hand bat"],
+    "price": "$980000",
+    "rating": 5.0
+  },
+  {
+    "id": 10,
+    "player_name": "Shakib Al Hasan",
+    "player_img": "https://i.ibb.co.com/DV6Nhn3/p10.webp",
+    "country": "Bangladesh",
+    "player_type": "All-rounder",
+    "player_features": ["Left-hand bat", "Left-arm orthodox"],
+    "price": "$900000",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "player_name": "Rashid Khan",
+    "player_img": "https://i.ibb.co.com/tZv3TVS/p11.webp",
+    "country": "Afghanistan",
+    "player_type": "Bowler",
+    "player_features": ["Right-arm leg spin"],
+    "price": "$780000",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "player_name": "Trent Boult",
+    "player_img": "https://i.ibb.co.com/F6jD8z6/p12.jpg",
+    "country": "New Zealand",
+    "player_type": "Bowler",
+    "player_features": ["Left-arm fast-medium"],
+    "price": "$820000",
+    "rating": 4.5
+  },
+  {
+    "id": 13,
+    "player_name": "Kane Williamson",
+    "player_img": "https://i.ibb.co.com/42qdDDg/p13.jpg",
+    "country": "New Zealand",
+    "player_type": "Batsman",
+    "player_features": ["Right-hand bat"],
+    "price": "$750000",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "player_name": "Shaheen Afridi",
+    "player_img": "https://i.ibb.co.com/4JY5VpP/p14.webp",
+    "country": "Pakistan",
+    "player_type": "Bowler",
+    "player_features": ["Left-arm fast"],
+    "price": "$850000",
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "player_name": "Babar Azam",
+    "player_img": "https://i.ibb.co.com/60NNRpC/p15.jpg",
+    "country": "Pakistan",
+    "player_type": "Batsman",
+    "player_features": ["Right-hand bat"],
+    "price": "$900000",
+    "rating": 5.0
+  }
+]

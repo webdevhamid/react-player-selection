@@ -1,0 +1,5 @@
+div#newsletter {
+  margin-bottom: -146px;
+  z-index: 1;
+  position: relative;
+}
