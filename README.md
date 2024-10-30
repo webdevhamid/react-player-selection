@@ -24,4 +24,4 @@ Dream-11 is an online all-in-one cricket player selection platform where buyer c
 
 ## Live Link
 
-- Live Website: https://dream-11-hamid.surge.sh/
+- Live Website: https://player-selection-hamid.surge.sh
