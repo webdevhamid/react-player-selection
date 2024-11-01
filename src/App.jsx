@@ -41,7 +41,7 @@ function App() {
     if (coinBalance >= playerPrice) {
       const duplicatePlayer = selectedPlayers?.find((prevPlayer) => prevPlayer.id === player.id);
 
-      // Check if duplicate player exists
+      // Check if duplicate player exists, then return/terminate the function immediately
       if (duplicatePlayer) return preventDuplicatePurchase();
 
       if (selectedPlayers.length === maxSelectedPlayers) {
